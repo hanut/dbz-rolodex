@@ -1,0 +1,29 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #efefef;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card-container.god {
+  background-image: radial-gradient(rgb(191, 255, 245), rgb(177, 239, 241), rgb(163, 223, 237), rgb(149, 206, 232), rgb(135, 190, 228), rgb(121, 174, 224), rgb(140, 164, 210), rgb(159, 154, 196), rgb(178, 145, 182), rgb(197, 135, 167), rgb(216, 125, 153), rgb(235, 115, 139));
+}
+.card-container.tough {
+  background-color: rgb(235, 178, 113);
+}
+  
+.card-container:hover {
+  transform: scale(1.05);
+}
+
+.card-container > img {
+    margin: 0 auto;
+    width: fit-content;
+}
