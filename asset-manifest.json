@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dbz-rolodex/static/css/main.4eb44bab.chunk.css",
+    "main.js": "/dbz-rolodex/static/js/main.b14079c2.chunk.js",
+    "main.js.map": "/dbz-rolodex/static/js/main.b14079c2.chunk.js.map",
+    "runtime-main.js": "/dbz-rolodex/static/js/runtime-main.96aeaa15.js",
+    "runtime-main.js.map": "/dbz-rolodex/static/js/runtime-main.96aeaa15.js.map",
+    "static/js/2.894a126c.chunk.js": "/dbz-rolodex/static/js/2.894a126c.chunk.js",
+    "static/js/2.894a126c.chunk.js.map": "/dbz-rolodex/static/js/2.894a126c.chunk.js.map",
+    "index.html": "/dbz-rolodex/index.html",
+    "precache-manifest.51d649edff112bb3d12dd90e879eef96.js": "/dbz-rolodex/precache-manifest.51d649edff112bb3d12dd90e879eef96.js",
+    "service-worker.js": "/dbz-rolodex/service-worker.js",
+    "static/css/main.4eb44bab.chunk.css.map": "/dbz-rolodex/static/css/main.4eb44bab.chunk.css.map",
+    "static/js/2.894a126c.chunk.js.LICENSE.txt": "/dbz-rolodex/static/js/2.894a126c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dbz-rolodex/static/media/logo.cb236619.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96aeaa15.js",
+    "static/js/2.894a126c.chunk.js",
+    "static/css/main.4eb44bab.chunk.css",
+    "static/js/main.b14079c2.chunk.js"
+  ]
+}
