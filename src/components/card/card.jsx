@@ -11,7 +11,7 @@ export const Card = ({ person }) => {
             (person.pl.includes("???"))  
             ? "god" : "")
             }>
-            <img src={'avatars/' + person.avatar} alt={person.name} />
+            <img src={'https://hanut.github.io/dbz-rolodex/avatars/' + person.avatar} alt={person.name} />
             <h3>{person.name}</h3>
             <p>{person.pl}</p>
         </div>
